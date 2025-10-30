@@ -8,6 +8,9 @@ Python3 должен быть уже установлен. Затем испол
 
 ```pip install -r requirements.txt```
 
+<img width="297" height="55" alt="image" src="https://github.com/user-attachments/assets/6132e63d-075c-43f8-9a00-45afefec07ee" />
+
+
 ### Переменные окружения
 - DB_ENGINE - Отвечает за то, где Django хранит данные сеанса.
 - DB_HOST - хост для подключения к базе данных.
