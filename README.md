@@ -7,9 +7,11 @@
 Python3 должен быть уже установлен. Затем используйте pip (или pip3, есть конфликт с Python2) для установки зависимостей:
 
 ```pip install -r requirements.txt```
+### Запуск
+Запустите проект командой в терминале:
+```python main.py run```
 
 <img width="297" height="55" alt="image" src="https://github.com/user-attachments/assets/6132e63d-075c-43f8-9a00-45afefec07ee" />
-
 
 ### Переменные окружения
 - DB_ENGINE - Отвечает за то, где Django хранит данные сеанса.
