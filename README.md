@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ### Запуск
 Запустите проект командой в терминале:
 ```
-python main.py runserver
+python manage.py runserver 
 ```
 
 <img width="297" height="55" alt="image" src="https://github.com/user-attachments/assets/6132e63d-075c-43f8-9a00-45afefec07ee" />
